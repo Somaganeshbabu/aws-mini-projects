@@ -17,7 +17,7 @@ Before you begin, ensure you have the following:
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Configure the AWS Cognito User Pool by following the steps in the Terraform configuration file (`aws_cognitouserpool.tf`).
+2. Configure the AWS Cognito User Pool by following the steps in the Terraform configuration file (`main.tf`).
 
     a. Run `terraform init` to initialize the Terraform environment.
 
